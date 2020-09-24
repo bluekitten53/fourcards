@@ -1,0 +1,112 @@
+body{
+	background-color:#EDEDEA ;
+}
+
+#main{
+	text-align: center;
+}
+h1{
+	color:  hsl(234, 12%, 34%);
+	font-family:system-ui; 
+	font-size: 28px;
+	font-weight: normal;
+}
+
+h2{
+	color:  hsl(234, 12%, 34%);
+	font-family:system-ui; 
+	font-size: 30px;
+}
+
+#main p{
+	color:  hsl(234, 12%, 34%);
+	float: center;
+	width: 33.3%;
+	position: relative;
+	margin-left: 428px;
+
+}
+
+.body{
+	float: left;
+	width: 25%;
+}
+
+#card1{
+	background-color: white;
+	border-radius: 10px;
+	border: solid;
+	border-color: white;
+	border-top-color:#08D2C7; 
+	padding: 5px , 10px;
+	margin-right:55px;
+	position: relative;
+	left:232px;
+	top:143px;
+
+}
+
+#card2{
+	background-color: white;
+	border-radius: 10px;
+	border: solid;
+	border-color: white;
+	border-top-color: #EF6666 ; 
+	padding: 5px , 10px;
+	margin-right:55px;
+	position: relative;
+	left:530px;
+	bottom:130px;
+
+}
+
+#card3{
+	background-color: white;
+	border-radius: 10px;
+	border: solid;
+	border-color: white;
+	border-top-color:#F2CF3D; 
+	padding: 5px , 10px;
+	margin-right:55px;
+	position: relative;
+	left:530px;
+	bottom:114px;
+
+}
+
+#card4{
+	background-color: white;
+	border-radius: 10px;
+	border: solid;
+	border-color: white;
+	border-top-color:#6D78F4; 
+	padding: 5px , 10px;
+	position: relative;
+	left:830px;
+	bottom:400px;
+	margin-right:55px;
+	
+
+}
+h3{
+	color:  hsl(234, 12%, 34%);
+	margin:10px;
+}
+
+p{
+	color:  hsl(234, 12%, 34%);
+	margin:17px;
+}
+
+img{
+position: relative;
+left:200px;
+
+}
+
+
+
+footer{
+	position: relative;
+	top:550px;
+}
